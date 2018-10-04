@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPPLabs.dir/main.cpp.o  -o CPPLabs 
