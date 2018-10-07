@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o"
+  "CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o"
+  "CMakeFiles/CPPLabs.dir/lab2/main.cpp.o"
+  "CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o"
   "CPPLabs.pdb"
   "CPPLabs"
 )

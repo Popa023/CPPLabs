@@ -84,7 +84,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab1/lab1e/average.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.cpp">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.h">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/Stats.cpp">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/Stats.h">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/main.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">

@@ -123,32 +123,86 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-lab1/lab1e/average.o: lab1/lab1e/average.cpp.o
+lab2/ReadArray.o: lab2/ReadArray.cpp.o
 
-.PHONY : lab1/lab1e/average.o
+.PHONY : lab2/ReadArray.o
 
 # target to build an object file
-lab1/lab1e/average.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o
-.PHONY : lab1/lab1e/average.cpp.o
+lab2/ReadArray.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o
+.PHONY : lab2/ReadArray.cpp.o
 
-lab1/lab1e/average.i: lab1/lab1e/average.cpp.i
+lab2/ReadArray.i: lab2/ReadArray.cpp.i
 
-.PHONY : lab1/lab1e/average.i
+.PHONY : lab2/ReadArray.i
 
 # target to preprocess a source file
-lab1/lab1e/average.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.i
-.PHONY : lab1/lab1e/average.cpp.i
+lab2/ReadArray.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.i
+.PHONY : lab2/ReadArray.cpp.i
 
-lab1/lab1e/average.s: lab1/lab1e/average.cpp.s
+lab2/ReadArray.s: lab2/ReadArray.cpp.s
 
-.PHONY : lab1/lab1e/average.s
+.PHONY : lab2/ReadArray.s
 
 # target to generate assembly for a file
-lab1/lab1e/average.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.s
-.PHONY : lab1/lab1e/average.cpp.s
+lab2/ReadArray.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.s
+.PHONY : lab2/ReadArray.cpp.s
+
+lab2/Stats.o: lab2/Stats.cpp.o
+
+.PHONY : lab2/Stats.o
+
+# target to build an object file
+lab2/Stats.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o
+.PHONY : lab2/Stats.cpp.o
+
+lab2/Stats.i: lab2/Stats.cpp.i
+
+.PHONY : lab2/Stats.i
+
+# target to preprocess a source file
+lab2/Stats.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.i
+.PHONY : lab2/Stats.cpp.i
+
+lab2/Stats.s: lab2/Stats.cpp.s
+
+.PHONY : lab2/Stats.s
+
+# target to generate assembly for a file
+lab2/Stats.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.s
+.PHONY : lab2/Stats.cpp.s
+
+lab2/main.o: lab2/main.cpp.o
+
+.PHONY : lab2/main.o
+
+# target to build an object file
+lab2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/main.cpp.o
+.PHONY : lab2/main.cpp.o
+
+lab2/main.i: lab2/main.cpp.i
+
+.PHONY : lab2/main.i
+
+# target to preprocess a source file
+lab2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/main.cpp.i
+.PHONY : lab2/main.cpp.i
+
+lab2/main.s: lab2/main.cpp.s
+
+.PHONY : lab2/main.s
+
+# target to generate assembly for a file
+lab2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/main.cpp.s
+.PHONY : lab2/main.cpp.s
 
 # Help Target
 help:
@@ -159,9 +213,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... lab1/lab1e/average.o"
-	@echo "... lab1/lab1e/average.i"
-	@echo "... lab1/lab1e/average.s"
+	@echo "... lab2/ReadArray.o"
+	@echo "... lab2/ReadArray.i"
+	@echo "... lab2/ReadArray.s"
+	@echo "... lab2/Stats.o"
+	@echo "... lab2/Stats.i"
+	@echo "... lab2/Stats.s"
+	@echo "... lab2/main.o"
+	@echo "... lab2/main.i"
+	@echo "... lab2/main.s"
 .PHONY : help
 
 
