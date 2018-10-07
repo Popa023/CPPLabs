@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o"
+  "CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o"
   "CPPLabs.pdb"
   "CPPLabs"
 )

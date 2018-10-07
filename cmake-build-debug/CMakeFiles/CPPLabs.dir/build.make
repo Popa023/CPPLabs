@@ -57,27 +57,27 @@ include CMakeFiles/CPPLabs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPPLabs.dir/flags.make
 
-CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o: ../lab1/lab1d/args.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab1/lab1d/args.cpp
+CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o: ../lab1/lab1e/average.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab1/lab1e/average.cpp
 
-CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab1/lab1d/args.cpp > CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.i
+CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab1/lab1e/average.cpp > CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab1/lab1d/args.cpp -o CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.s
+CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab1/lab1e/average.cpp -o CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.s
 
 # Object files for target CPPLabs
 CPPLabs_OBJECTS = \
-"CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o"
+"CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o"
 
 # External object files for target CPPLabs
 CPPLabs_EXTERNAL_OBJECTS =
 
-CPPLabs: CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o
 CPPLabs: CMakeFiles/CPPLabs.dir/build.make
 CPPLabs: CMakeFiles/CPPLabs.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CPPLabs"

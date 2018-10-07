@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o  -o CPPLabs 
+/usr/bin/c++  -g   CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o  -o CPPLabs 

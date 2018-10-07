@@ -5,33 +5,22 @@
       <config projectName="CPPLabs" targetName="CPPLabs" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db353f1-bd99-4ce3-9a5e-131960bf0bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab1/lab1d/args.cpp" afterDir="false" />
+    <list default="true" id="9db353f1-bd99-4ce3-9a5e-131960bf0bd4" name="Default Changelist" comment="lab1d">
+      <change afterPath="$PROJECT_DIR$/lab1/lab1e/average.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1a/lab1a.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1a/lab1a.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1b/Data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1b/Data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1b/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1b/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1b/lab1b.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1b/lab1b.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1c/Hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1c/Hello.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1c/Hello.h" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1c/Hello.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1c/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1c/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1c/Hellomain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1c/Hellomain.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,29 +42,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="5" />
-          <entry key="h" value="1" />
+          <entry key="cpp" value="7" />
+          <entry key="h" value="2" />
           <entry key="java" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ObjectiveC" value="6" />
+          <entry key="ObjectiveC" value="9" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="258" />
-          <entry key="txt" value="18" />
+          <entry key="cpp" value="574" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="9" />
-          <entry key="ObjectiveC" value="258" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="ObjectiveC" value="574" />
+          <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
@@ -88,51 +77,16 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-              <folding>
-                <element signature="e#175#193#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hellomain.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab1/lab1d/args.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.h">
+        <entry file="file://$PROJECT_DIR$/lab1/lab1e/average.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -146,8 +100,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/lab1/lab1d/args.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/lab1/lab1e/average.cpp" />
       </list>
     </option>
   </component>
@@ -188,7 +143,7 @@
               <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1d" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1e" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +207,7 @@
       <workItem from="1538666227687" duration="1524000" />
       <workItem from="1538854346463" duration="488000" />
       <workItem from="1538860145420" duration="2101000" />
-      <workItem from="1538874972609" duration="1909000" />
+      <workItem from="1538874972609" duration="4511000" />
     </task>
     <task id="LOCAL-00001" summary="lab files">
       <created>1538666555824</created>
@@ -282,22 +237,37 @@
       <option name="project" value="LOCAL" />
       <updated>1538667097158</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lab1d">
+      <created>1538876914816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538876914816</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lab1d">
+      <created>1538876993338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538876993338</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6022000" />
+    <option name="totallyTimeSpent" value="8624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -321,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab files" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab files" />
+    <MESSAGE value="lab1d" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab1d" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
@@ -348,23 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#175#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hellomain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -375,17 +329,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab1/lab1d/args.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hellomain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#175#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/lab1e/a.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/lab1e/a.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab1/lab1e/average.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>

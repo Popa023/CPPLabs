@@ -123,32 +123,32 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-lab1/lab1d/args.o: lab1/lab1d/args.cpp.o
+lab1/lab1e/average.o: lab1/lab1e/average.cpp.o
 
-.PHONY : lab1/lab1d/args.o
+.PHONY : lab1/lab1e/average.o
 
 # target to build an object file
-lab1/lab1d/args.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o
-.PHONY : lab1/lab1d/args.cpp.o
+lab1/lab1e/average.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.o
+.PHONY : lab1/lab1e/average.cpp.o
 
-lab1/lab1d/args.i: lab1/lab1d/args.cpp.i
+lab1/lab1e/average.i: lab1/lab1e/average.cpp.i
 
-.PHONY : lab1/lab1d/args.i
+.PHONY : lab1/lab1e/average.i
 
 # target to preprocess a source file
-lab1/lab1d/args.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.i
-.PHONY : lab1/lab1d/args.cpp.i
+lab1/lab1e/average.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.i
+.PHONY : lab1/lab1e/average.cpp.i
 
-lab1/lab1d/args.s: lab1/lab1d/args.cpp.s
+lab1/lab1e/average.s: lab1/lab1e/average.cpp.s
 
-.PHONY : lab1/lab1d/args.s
+.PHONY : lab1/lab1e/average.s
 
 # target to generate assembly for a file
-lab1/lab1d/args.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.s
-.PHONY : lab1/lab1d/args.cpp.s
+lab1/lab1e/average.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1e/average.cpp.s
+.PHONY : lab1/lab1e/average.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... lab1/lab1d/args.o"
-	@echo "... lab1/lab1d/args.i"
-	@echo "... lab1/lab1d/args.s"
+	@echo "... lab1/lab1e/average.o"
+	@echo "... lab1/lab1e/average.i"
+	@echo "... lab1/lab1e/average.s"
 .PHONY : help
 
 
