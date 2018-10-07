@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/main.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab1/lab1d/args.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">

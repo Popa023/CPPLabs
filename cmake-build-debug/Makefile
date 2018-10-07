@@ -123,32 +123,32 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-main.o: main.cpp.o
+lab1/lab1d/args.o: lab1/lab1d/args.cpp.o
 
-.PHONY : main.o
+.PHONY : lab1/lab1d/args.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/main.cpp.o
-.PHONY : main.cpp.o
+lab1/lab1d/args.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.o
+.PHONY : lab1/lab1d/args.cpp.o
 
-main.i: main.cpp.i
+lab1/lab1d/args.i: lab1/lab1d/args.cpp.i
 
-.PHONY : main.i
+.PHONY : lab1/lab1d/args.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/main.cpp.i
-.PHONY : main.cpp.i
+lab1/lab1d/args.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.i
+.PHONY : lab1/lab1d/args.cpp.i
 
-main.s: main.cpp.s
+lab1/lab1d/args.s: lab1/lab1d/args.cpp.s
 
-.PHONY : main.s
+.PHONY : lab1/lab1d/args.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/main.cpp.s
-.PHONY : main.cpp.s
+lab1/lab1d/args.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab1/lab1d/args.cpp.s
+.PHONY : lab1/lab1d/args.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... lab1/lab1d/args.o"
+	@echo "... lab1/lab1d/args.i"
+	@echo "... lab1/lab1d/args.s"
 .PHONY : help
 
 

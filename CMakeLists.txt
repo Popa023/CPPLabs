@@ -3,4 +3,4 @@ project(CPPLabs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPPLabs main.cpp)
+add_executable(CPPLabs lab1/lab1d/args.cpp)
