@@ -57,60 +57,75 @@ include CMakeFiles/CPPLabs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPPLabs.dir/flags.make
 
-CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o: ../lab2/ReadArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.cpp
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o: ../lab2/lab2prof/ReadArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.cpp
 
-CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.cpp > CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.i
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.cpp > CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.cpp -o CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.s
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.cpp -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.s
 
-CMakeFiles/CPPLabs.dir/lab2/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab2/main.cpp.o: ../lab2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/main.cpp
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o: ../lab2/lab2prof/Stats.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.cpp
 
-CMakeFiles/CPPLabs.dir/lab2/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/main.cpp > CMakeFiles/CPPLabs.dir/lab2/main.cpp.i
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.cpp > CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab2/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/main.cpp -o CMakeFiles/CPPLabs.dir/lab2/main.cpp.s
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.cpp -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.s
 
-CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o: ../lab2/Stats.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/Stats.cpp
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o: ../lab2/lab2prof/WriteNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.cpp
 
-CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/Stats.cpp > CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.i
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.cpp > CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/Stats.cpp -o CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.s
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.cpp -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.s
+
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o: ../lab2/lab2prof/Main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Main.cpp
+
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Main.cpp > CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.i
+
+CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Main.cpp -o CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.s
 
 # Object files for target CPPLabs
 CPPLabs_OBJECTS = \
-"CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o" \
-"CMakeFiles/CPPLabs.dir/lab2/main.cpp.o" \
-"CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o"
+"CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o" \
+"CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o" \
+"CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o" \
+"CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o"
 
 # External object files for target CPPLabs
 CPPLabs_EXTERNAL_OBJECTS =
 
-CPPLabs: CMakeFiles/CPPLabs.dir/lab2/ReadArray.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/lab2/main.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/lab2/Stats.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o
 CPPLabs: CMakeFiles/CPPLabs.dir/build.make
 CPPLabs: CMakeFiles/CPPLabs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CPPLabs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CPPLabs"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CPPLabs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

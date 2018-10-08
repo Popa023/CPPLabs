@@ -11,6 +11,7 @@ class Stats {
     static double average(const int a[], int count);
     static int largest(const int a[], int count);
     static int sum(const int a[], int count);
+    static double deviation(const int a[], int count);
 
 };
 

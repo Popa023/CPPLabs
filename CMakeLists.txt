@@ -3,4 +3,4 @@ project(CPPLabs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPPLabs lab2/ReadArray.cpp lab2/ReadArray.h lab2/main.cpp lab2/Stats.cpp lab2/Stats.h)
+add_executable(CPPLabs lab2/lab2prof/ReadArray.cpp lab2/lab2prof/ReadArray.h lab2/lab2prof/Stats.cpp lab2/lab2prof/Stats.h lab2/lab2prof/WriteNumber.cpp lab2/lab2prof/WriteNumber.h lab2/lab2prof/Main.cpp)

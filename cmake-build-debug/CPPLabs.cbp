@@ -84,19 +84,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Main.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/ReadArray.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/Stats.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.h">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/Stats.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/main.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.h">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.cpp">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.h">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">
