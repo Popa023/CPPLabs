@@ -12,28 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9db353f1-bd99-4ce3-9a5e-131960bf0bd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/Main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/ReadArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/ReadArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/Stats.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/Stats.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/WriteMain.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/WriteNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/lab2prof/WriteNumber.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3a/lab3a.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/lab3b/lab3b.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Stats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Stats.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Stats.h" beforeDir="false" afterPath="$PROJECT_DIR$/lab2/Stats.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="18" />
+          <entry key="cpp" value="19" />
           <entry key="dat" value="9" />
           <entry key="h" value="10" />
           <entry key="java" value="2" />
@@ -66,7 +47,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CMakeLists.txt" value="2" />
-          <entry key="ObjectiveC" value="28" />
+          <entry key="ObjectiveC" value="29" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -75,14 +56,14 @@
           <entry key="cpp" value="1922" />
           <entry key="dat" value="1" />
           <entry key="h" value="460" />
-          <entry key="txt" value="72" />
+          <entry key="txt" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="34" />
           <entry key="ObjectiveC" value="2382" />
-          <entry key="PLAIN_TEXT" value="39" />
+          <entry key="PLAIN_TEXT" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
@@ -96,18 +77,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="203" selection-start-line="5" selection-start-column="203" selection-end-line="5" selection-end-column="203" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab2/Stats.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <element signature="e#43#61#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -133,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2/file.dat">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab3/lab3a/lab3a.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -174,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/lab2/lab2prof/WriteNumber.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -214,8 +192,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="206" />
-    <option name="y" value="35" />
+    <option name="x" value="269" />
+    <option name="y" value="80" />
     <option name="width" value="1380" />
     <option name="height" value="1000" />
   </component>
@@ -238,24 +216,13 @@
             <path>
               <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1c" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="lab1e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
-              <item name="lab2" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3a" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,6 +238,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab3" />
       <recent name="$PROJECT_DIR$/lab2/lab2prof" />
       <recent name="$PROJECT_DIR$/lab2" />
       <recent name="$PROJECT_DIR$" />
@@ -322,7 +290,7 @@
       <workItem from="1538854346463" duration="488000" />
       <workItem from="1538860145420" duration="2101000" />
       <workItem from="1538874972609" duration="10005000" />
-      <workItem from="1539016614313" duration="6990000" />
+      <workItem from="1539016614313" duration="8106000" />
     </task>
     <task id="LOCAL-00001" summary="lab files">
       <created>1538666555824</created>
@@ -380,14 +348,22 @@
       <option name="project" value="LOCAL" />
       <updated>1538948404761</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab2">
+      <created>1539028982374</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539028982374</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21108000" />
+    <option name="totallyTimeSpent" value="22224000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="206" y="35" width="1380" height="1000" extended-state="0" />
+    <frame x="269" y="80" width="1380" height="1000" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35307348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -421,7 +397,8 @@
     <MESSAGE value="lab files" />
     <MESSAGE value="lab1d" />
     <MESSAGE value="lab2 in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab2 in progress" />
+    <MESSAGE value="lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
@@ -558,7 +535,7 @@
     <entry file="file://$PROJECT_DIR$/lab2/lab2prof/WriteNumber.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -607,6 +584,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3/lab3a/lab3a.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
