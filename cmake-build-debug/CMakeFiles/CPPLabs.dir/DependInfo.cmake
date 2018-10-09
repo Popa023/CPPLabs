@@ -4,10 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Main.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o"
-  "/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/ReadArray.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o"
-  "/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/Stats.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o"
-  "/home/razvan/CLionProjects/CPPLabs/lab2/lab2prof/WriteNumber.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o"
+  "/home/razvan/CLionProjects/CPPLabs/lab3/lab3b/lab3b.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

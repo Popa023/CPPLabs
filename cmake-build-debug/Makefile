@@ -123,113 +123,32 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-lab2/lab2prof/Main.o: lab2/lab2prof/Main.cpp.o
+lab3/lab3b/lab3b.o: lab3/lab3b/lab3b.cpp.o
 
-.PHONY : lab2/lab2prof/Main.o
-
-# target to build an object file
-lab2/lab2prof/Main.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o
-.PHONY : lab2/lab2prof/Main.cpp.o
-
-lab2/lab2prof/Main.i: lab2/lab2prof/Main.cpp.i
-
-.PHONY : lab2/lab2prof/Main.i
-
-# target to preprocess a source file
-lab2/lab2prof/Main.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.i
-.PHONY : lab2/lab2prof/Main.cpp.i
-
-lab2/lab2prof/Main.s: lab2/lab2prof/Main.cpp.s
-
-.PHONY : lab2/lab2prof/Main.s
-
-# target to generate assembly for a file
-lab2/lab2prof/Main.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.s
-.PHONY : lab2/lab2prof/Main.cpp.s
-
-lab2/lab2prof/ReadArray.o: lab2/lab2prof/ReadArray.cpp.o
-
-.PHONY : lab2/lab2prof/ReadArray.o
+.PHONY : lab3/lab3b/lab3b.o
 
 # target to build an object file
-lab2/lab2prof/ReadArray.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o
-.PHONY : lab2/lab2prof/ReadArray.cpp.o
+lab3/lab3b/lab3b.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.o
+.PHONY : lab3/lab3b/lab3b.cpp.o
 
-lab2/lab2prof/ReadArray.i: lab2/lab2prof/ReadArray.cpp.i
+lab3/lab3b/lab3b.i: lab3/lab3b/lab3b.cpp.i
 
-.PHONY : lab2/lab2prof/ReadArray.i
-
-# target to preprocess a source file
-lab2/lab2prof/ReadArray.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.i
-.PHONY : lab2/lab2prof/ReadArray.cpp.i
-
-lab2/lab2prof/ReadArray.s: lab2/lab2prof/ReadArray.cpp.s
-
-.PHONY : lab2/lab2prof/ReadArray.s
-
-# target to generate assembly for a file
-lab2/lab2prof/ReadArray.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.s
-.PHONY : lab2/lab2prof/ReadArray.cpp.s
-
-lab2/lab2prof/Stats.o: lab2/lab2prof/Stats.cpp.o
-
-.PHONY : lab2/lab2prof/Stats.o
-
-# target to build an object file
-lab2/lab2prof/Stats.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o
-.PHONY : lab2/lab2prof/Stats.cpp.o
-
-lab2/lab2prof/Stats.i: lab2/lab2prof/Stats.cpp.i
-
-.PHONY : lab2/lab2prof/Stats.i
+.PHONY : lab3/lab3b/lab3b.i
 
 # target to preprocess a source file
-lab2/lab2prof/Stats.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.i
-.PHONY : lab2/lab2prof/Stats.cpp.i
+lab3/lab3b/lab3b.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.i
+.PHONY : lab3/lab3b/lab3b.cpp.i
 
-lab2/lab2prof/Stats.s: lab2/lab2prof/Stats.cpp.s
+lab3/lab3b/lab3b.s: lab3/lab3b/lab3b.cpp.s
 
-.PHONY : lab2/lab2prof/Stats.s
-
-# target to generate assembly for a file
-lab2/lab2prof/Stats.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.s
-.PHONY : lab2/lab2prof/Stats.cpp.s
-
-lab2/lab2prof/WriteNumber.o: lab2/lab2prof/WriteNumber.cpp.o
-
-.PHONY : lab2/lab2prof/WriteNumber.o
-
-# target to build an object file
-lab2/lab2prof/WriteNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o
-.PHONY : lab2/lab2prof/WriteNumber.cpp.o
-
-lab2/lab2prof/WriteNumber.i: lab2/lab2prof/WriteNumber.cpp.i
-
-.PHONY : lab2/lab2prof/WriteNumber.i
-
-# target to preprocess a source file
-lab2/lab2prof/WriteNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.i
-.PHONY : lab2/lab2prof/WriteNumber.cpp.i
-
-lab2/lab2prof/WriteNumber.s: lab2/lab2prof/WriteNumber.cpp.s
-
-.PHONY : lab2/lab2prof/WriteNumber.s
+.PHONY : lab3/lab3b/lab3b.s
 
 # target to generate assembly for a file
-lab2/lab2prof/WriteNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.s
-.PHONY : lab2/lab2prof/WriteNumber.cpp.s
+lab3/lab3b/lab3b.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.s
+.PHONY : lab3/lab3b/lab3b.cpp.s
 
 # Help Target
 help:
@@ -240,18 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... lab2/lab2prof/Main.o"
-	@echo "... lab2/lab2prof/Main.i"
-	@echo "... lab2/lab2prof/Main.s"
-	@echo "... lab2/lab2prof/ReadArray.o"
-	@echo "... lab2/lab2prof/ReadArray.i"
-	@echo "... lab2/lab2prof/ReadArray.s"
-	@echo "... lab2/lab2prof/Stats.o"
-	@echo "... lab2/lab2prof/Stats.i"
-	@echo "... lab2/lab2prof/Stats.s"
-	@echo "... lab2/lab2prof/WriteNumber.o"
-	@echo "... lab2/lab2prof/WriteNumber.i"
-	@echo "... lab2/lab2prof/WriteNumber.s"
+	@echo "... lab3/lab3b/lab3b.o"
+	@echo "... lab3/lab3b/lab3b.i"
+	@echo "... lab3/lab3b/lab3b.s"
 .PHONY : help
 
 

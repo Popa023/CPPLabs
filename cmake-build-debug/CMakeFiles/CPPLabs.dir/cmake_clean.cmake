@@ -1,8 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPPLabs.dir/lab2/lab2prof/ReadArray.cpp.o"
-  "CMakeFiles/CPPLabs.dir/lab2/lab2prof/Stats.cpp.o"
-  "CMakeFiles/CPPLabs.dir/lab2/lab2prof/WriteNumber.cpp.o"
-  "CMakeFiles/CPPLabs.dir/lab2/lab2prof/Main.cpp.o"
+  "CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.o"
   "CPPLabs.pdb"
   "CPPLabs"
 )
