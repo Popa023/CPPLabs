@@ -16,7 +16,7 @@ int main()
 
   x = y+z;
 
-  cout << endl << endl << "x = y+z: ";
+  cout << endl << endl << "x = y+z  : ";
   cout << x << " = " << y << " + " << z;
 
   x = y-z;
