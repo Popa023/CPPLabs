@@ -84,7 +84,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab3/lab3b/lab3b.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/Complex.cpp">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/Complex.h">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/ComplexMain.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">

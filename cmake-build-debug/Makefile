@@ -123,32 +123,59 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-lab3/lab3b/lab3b.o: lab3/lab3b/lab3b.cpp.o
+lab4/Complex.o: lab4/Complex.cpp.o
 
-.PHONY : lab3/lab3b/lab3b.o
+.PHONY : lab4/Complex.o
 
 # target to build an object file
-lab3/lab3b/lab3b.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.o
-.PHONY : lab3/lab3b/lab3b.cpp.o
+lab4/Complex.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o
+.PHONY : lab4/Complex.cpp.o
 
-lab3/lab3b/lab3b.i: lab3/lab3b/lab3b.cpp.i
+lab4/Complex.i: lab4/Complex.cpp.i
 
-.PHONY : lab3/lab3b/lab3b.i
+.PHONY : lab4/Complex.i
 
 # target to preprocess a source file
-lab3/lab3b/lab3b.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.i
-.PHONY : lab3/lab3b/lab3b.cpp.i
+lab4/Complex.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.i
+.PHONY : lab4/Complex.cpp.i
 
-lab3/lab3b/lab3b.s: lab3/lab3b/lab3b.cpp.s
+lab4/Complex.s: lab4/Complex.cpp.s
 
-.PHONY : lab3/lab3b/lab3b.s
+.PHONY : lab4/Complex.s
 
 # target to generate assembly for a file
-lab3/lab3b/lab3b.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.s
-.PHONY : lab3/lab3b/lab3b.cpp.s
+lab4/Complex.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.s
+.PHONY : lab4/Complex.cpp.s
+
+lab4/ComplexMain.o: lab4/ComplexMain.cpp.o
+
+.PHONY : lab4/ComplexMain.o
+
+# target to build an object file
+lab4/ComplexMain.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o
+.PHONY : lab4/ComplexMain.cpp.o
+
+lab4/ComplexMain.i: lab4/ComplexMain.cpp.i
+
+.PHONY : lab4/ComplexMain.i
+
+# target to preprocess a source file
+lab4/ComplexMain.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.i
+.PHONY : lab4/ComplexMain.cpp.i
+
+lab4/ComplexMain.s: lab4/ComplexMain.cpp.s
+
+.PHONY : lab4/ComplexMain.s
+
+# target to generate assembly for a file
+lab4/ComplexMain.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.s
+.PHONY : lab4/ComplexMain.cpp.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... lab3/lab3b/lab3b.o"
-	@echo "... lab3/lab3b/lab3b.i"
-	@echo "... lab3/lab3b/lab3b.s"
+	@echo "... lab4/Complex.o"
+	@echo "... lab4/Complex.i"
+	@echo "... lab4/Complex.s"
+	@echo "... lab4/ComplexMain.o"
+	@echo "... lab4/ComplexMain.i"
+	@echo "... lab4/ComplexMain.s"
 .PHONY : help
 
 

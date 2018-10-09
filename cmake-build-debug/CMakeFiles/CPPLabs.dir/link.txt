@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/CPPLabs.dir/lab3/lab3b/lab3b.cpp.o  -o CPPLabs 
+/usr/bin/c++  -g   CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o  -o CPPLabs 
