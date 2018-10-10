@@ -1,0 +1,10 @@
+public String getVin(){
+
+    return vin.equals("") ? null : vin;
+    vin != null se fol c
+    vin.equals da eroare daca e null?
+    vrei sa zici sa le fac pe astia in una
+}
+
+
+abc

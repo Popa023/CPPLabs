@@ -13,4 +13,8 @@ int main(){
     cout << endl << nou;
     alexios++;
     cout << alexios;
+    alexios--;
+    cout << alexios;
+    nou++;
+    cout << nou;
 }

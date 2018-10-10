@@ -34,6 +34,6 @@ Assassin &Assassin::operator--(int n) {
 }
 
 ostream &operator<<(ostream &o, Assassin &assassin) {
-    o << "Assassinul " << assassin.name << " a facut " << assassin.kills;
+    o << "Assassinul " << assassin.name << " a facut " << assassin.kills << endl;
     return o;
 }
