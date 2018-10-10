@@ -3,4 +3,4 @@ project(CPPLabs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPPLabs lab4/Complex.cpp lab4/Complex.h lab4/ComplexMain.cpp)
+add_executable(CPPLabs Surd/Assassin.cpp Surd/Assassin.h Surd/main.cpp)

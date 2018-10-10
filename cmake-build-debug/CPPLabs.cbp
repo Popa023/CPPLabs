@@ -84,13 +84,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/Complex.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/Complex.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/Assassin.h">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/lab4/ComplexMain.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/main.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">

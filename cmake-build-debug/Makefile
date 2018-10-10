@@ -123,59 +123,59 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-lab4/Complex.o: lab4/Complex.cpp.o
+Surd/Assassin.o: Surd/Assassin.cpp.o
 
-.PHONY : lab4/Complex.o
-
-# target to build an object file
-lab4/Complex.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o
-.PHONY : lab4/Complex.cpp.o
-
-lab4/Complex.i: lab4/Complex.cpp.i
-
-.PHONY : lab4/Complex.i
-
-# target to preprocess a source file
-lab4/Complex.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.i
-.PHONY : lab4/Complex.cpp.i
-
-lab4/Complex.s: lab4/Complex.cpp.s
-
-.PHONY : lab4/Complex.s
-
-# target to generate assembly for a file
-lab4/Complex.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.s
-.PHONY : lab4/Complex.cpp.s
-
-lab4/ComplexMain.o: lab4/ComplexMain.cpp.o
-
-.PHONY : lab4/ComplexMain.o
+.PHONY : Surd/Assassin.o
 
 # target to build an object file
-lab4/ComplexMain.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o
-.PHONY : lab4/ComplexMain.cpp.o
+Surd/Assassin.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o
+.PHONY : Surd/Assassin.cpp.o
 
-lab4/ComplexMain.i: lab4/ComplexMain.cpp.i
+Surd/Assassin.i: Surd/Assassin.cpp.i
 
-.PHONY : lab4/ComplexMain.i
+.PHONY : Surd/Assassin.i
 
 # target to preprocess a source file
-lab4/ComplexMain.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.i
-.PHONY : lab4/ComplexMain.cpp.i
+Surd/Assassin.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i
+.PHONY : Surd/Assassin.cpp.i
 
-lab4/ComplexMain.s: lab4/ComplexMain.cpp.s
+Surd/Assassin.s: Surd/Assassin.cpp.s
 
-.PHONY : lab4/ComplexMain.s
+.PHONY : Surd/Assassin.s
 
 # target to generate assembly for a file
-lab4/ComplexMain.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.s
-.PHONY : lab4/ComplexMain.cpp.s
+Surd/Assassin.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s
+.PHONY : Surd/Assassin.cpp.s
+
+Surd/main.o: Surd/main.cpp.o
+
+.PHONY : Surd/main.o
+
+# target to build an object file
+Surd/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.o
+.PHONY : Surd/main.cpp.o
+
+Surd/main.i: Surd/main.cpp.i
+
+.PHONY : Surd/main.i
+
+# target to preprocess a source file
+Surd/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.i
+.PHONY : Surd/main.cpp.i
+
+Surd/main.s: Surd/main.cpp.s
+
+.PHONY : Surd/main.s
+
+# target to generate assembly for a file
+Surd/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.s
+.PHONY : Surd/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... lab4/Complex.o"
-	@echo "... lab4/Complex.i"
-	@echo "... lab4/Complex.s"
-	@echo "... lab4/ComplexMain.o"
-	@echo "... lab4/ComplexMain.i"
-	@echo "... lab4/ComplexMain.s"
+	@echo "... Surd/Assassin.o"
+	@echo "... Surd/Assassin.i"
+	@echo "... Surd/Assassin.s"
+	@echo "... Surd/main.o"
+	@echo "... Surd/main.i"
+	@echo "... Surd/main.s"
 .PHONY : help
 
 

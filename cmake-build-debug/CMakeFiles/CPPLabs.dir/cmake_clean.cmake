@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o"
-  "CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o"
+  "CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o"
+  "CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
   "CPPLabs.pdb"
   "CPPLabs"
 )

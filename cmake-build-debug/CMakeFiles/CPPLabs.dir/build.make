@@ -57,42 +57,42 @@ include CMakeFiles/CPPLabs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPPLabs.dir/flags.make
 
-CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o: ../lab4/Complex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab4/Complex.cpp
+CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o: ../Surd/Assassin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o -c /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp
 
-CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab4/Complex.cpp > CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.i
+CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp > CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab4/Complex.cpp -o CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.s
+CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp -o CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s
 
-CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o: ../lab4/ComplexMain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o -c /home/razvan/CLionProjects/CPPLabs/lab4/ComplexMain.cpp
+CMakeFiles/CPPLabs.dir/Surd/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/Surd/main.cpp.o: ../Surd/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/Surd/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp
 
-CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/lab4/ComplexMain.cpp > CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.i
+CMakeFiles/CPPLabs.dir/Surd/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/Surd/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp > CMakeFiles/CPPLabs.dir/Surd/main.cpp.i
 
-CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/lab4/ComplexMain.cpp -o CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.s
+CMakeFiles/CPPLabs.dir/Surd/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/Surd/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp -o CMakeFiles/CPPLabs.dir/Surd/main.cpp.s
 
 # Object files for target CPPLabs
 CPPLabs_OBJECTS = \
-"CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o" \
-"CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o"
+"CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o" \
+"CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
 
 # External object files for target CPPLabs
 CPPLabs_EXTERNAL_OBJECTS =
 
-CPPLabs: CMakeFiles/CPPLabs.dir/lab4/Complex.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/lab4/ComplexMain.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/Surd/main.cpp.o
 CPPLabs: CMakeFiles/CPPLabs.dir/build.make
 CPPLabs: CMakeFiles/CPPLabs.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CPPLabs"
