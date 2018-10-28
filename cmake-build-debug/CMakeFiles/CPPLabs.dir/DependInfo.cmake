@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o"
-  "/home/razvan/CLionProjects/CPPLabs/Surd/main.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
+  "/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o"
+  "/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o"
+  "/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp" "/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

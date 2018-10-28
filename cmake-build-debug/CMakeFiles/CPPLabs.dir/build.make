@@ -57,45 +57,60 @@ include CMakeFiles/CPPLabs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPPLabs.dir/flags.make
 
-CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o: ../Surd/Assassin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o -c /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp
+CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o: ../assignment1/ex2/ReadWords.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp
 
-CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp > CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i
+CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp > CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.i
 
-CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp -o CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s
+CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp -o CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.s
 
-CMakeFiles/CPPLabs.dir/Surd/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/Surd/main.cpp.o: ../Surd/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/Surd/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp
+CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o: ../assignment1/ex2/WordsArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp
 
-CMakeFiles/CPPLabs.dir/Surd/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/Surd/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp > CMakeFiles/CPPLabs.dir/Surd/main.cpp.i
+CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp > CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.i
 
-CMakeFiles/CPPLabs.dir/Surd/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/Surd/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/Surd/main.cpp -o CMakeFiles/CPPLabs.dir/Surd/main.cpp.s
+CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp -o CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.s
+
+CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o: ../assignment1/ex2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp
+
+CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp > CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.i
+
+CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp -o CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.s
 
 # Object files for target CPPLabs
 CPPLabs_OBJECTS = \
-"CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o" \
-"CMakeFiles/CPPLabs.dir/Surd/main.cpp.o"
+"CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o" \
+"CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o" \
+"CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o"
 
 # External object files for target CPPLabs
 CPPLabs_EXTERNAL_OBJECTS =
 
-CPPLabs: CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/Surd/main.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o
 CPPLabs: CMakeFiles/CPPLabs.dir/build.make
 CPPLabs: CMakeFiles/CPPLabs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CPPLabs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CPPLabs"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CPPLabs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

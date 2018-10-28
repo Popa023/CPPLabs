@@ -84,13 +84,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/Assassin.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/Assassin.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.h">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/Surd/main.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.h">
+			<Option target="CPPLabs"/>
+		</Unit>
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">

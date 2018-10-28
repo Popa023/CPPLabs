@@ -123,59 +123,86 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-Surd/Assassin.o: Surd/Assassin.cpp.o
+assignment1/ex2/ReadWords.o: assignment1/ex2/ReadWords.cpp.o
 
-.PHONY : Surd/Assassin.o
-
-# target to build an object file
-Surd/Assassin.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.o
-.PHONY : Surd/Assassin.cpp.o
-
-Surd/Assassin.i: Surd/Assassin.cpp.i
-
-.PHONY : Surd/Assassin.i
-
-# target to preprocess a source file
-Surd/Assassin.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.i
-.PHONY : Surd/Assassin.cpp.i
-
-Surd/Assassin.s: Surd/Assassin.cpp.s
-
-.PHONY : Surd/Assassin.s
-
-# target to generate assembly for a file
-Surd/Assassin.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/Assassin.cpp.s
-.PHONY : Surd/Assassin.cpp.s
-
-Surd/main.o: Surd/main.cpp.o
-
-.PHONY : Surd/main.o
+.PHONY : assignment1/ex2/ReadWords.o
 
 # target to build an object file
-Surd/main.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.o
-.PHONY : Surd/main.cpp.o
+assignment1/ex2/ReadWords.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o
+.PHONY : assignment1/ex2/ReadWords.cpp.o
 
-Surd/main.i: Surd/main.cpp.i
+assignment1/ex2/ReadWords.i: assignment1/ex2/ReadWords.cpp.i
 
-.PHONY : Surd/main.i
+.PHONY : assignment1/ex2/ReadWords.i
 
 # target to preprocess a source file
-Surd/main.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.i
-.PHONY : Surd/main.cpp.i
+assignment1/ex2/ReadWords.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.i
+.PHONY : assignment1/ex2/ReadWords.cpp.i
 
-Surd/main.s: Surd/main.cpp.s
+assignment1/ex2/ReadWords.s: assignment1/ex2/ReadWords.cpp.s
 
-.PHONY : Surd/main.s
+.PHONY : assignment1/ex2/ReadWords.s
 
 # target to generate assembly for a file
-Surd/main.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/Surd/main.cpp.s
-.PHONY : Surd/main.cpp.s
+assignment1/ex2/ReadWords.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.s
+.PHONY : assignment1/ex2/ReadWords.cpp.s
+
+assignment1/ex2/WordsArray.o: assignment1/ex2/WordsArray.cpp.o
+
+.PHONY : assignment1/ex2/WordsArray.o
+
+# target to build an object file
+assignment1/ex2/WordsArray.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o
+.PHONY : assignment1/ex2/WordsArray.cpp.o
+
+assignment1/ex2/WordsArray.i: assignment1/ex2/WordsArray.cpp.i
+
+.PHONY : assignment1/ex2/WordsArray.i
+
+# target to preprocess a source file
+assignment1/ex2/WordsArray.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.i
+.PHONY : assignment1/ex2/WordsArray.cpp.i
+
+assignment1/ex2/WordsArray.s: assignment1/ex2/WordsArray.cpp.s
+
+.PHONY : assignment1/ex2/WordsArray.s
+
+# target to generate assembly for a file
+assignment1/ex2/WordsArray.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.s
+.PHONY : assignment1/ex2/WordsArray.cpp.s
+
+assignment1/ex2/main.o: assignment1/ex2/main.cpp.o
+
+.PHONY : assignment1/ex2/main.o
+
+# target to build an object file
+assignment1/ex2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o
+.PHONY : assignment1/ex2/main.cpp.o
+
+assignment1/ex2/main.i: assignment1/ex2/main.cpp.i
+
+.PHONY : assignment1/ex2/main.i
+
+# target to preprocess a source file
+assignment1/ex2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.i
+.PHONY : assignment1/ex2/main.cpp.i
+
+assignment1/ex2/main.s: assignment1/ex2/main.cpp.s
+
+.PHONY : assignment1/ex2/main.s
+
+# target to generate assembly for a file
+assignment1/ex2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.s
+.PHONY : assignment1/ex2/main.cpp.s
 
 # Help Target
 help:
@@ -186,12 +213,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... Surd/Assassin.o"
-	@echo "... Surd/Assassin.i"
-	@echo "... Surd/Assassin.s"
-	@echo "... Surd/main.o"
-	@echo "... Surd/main.i"
-	@echo "... Surd/main.s"
+	@echo "... assignment1/ex2/ReadWords.o"
+	@echo "... assignment1/ex2/ReadWords.i"
+	@echo "... assignment1/ex2/ReadWords.s"
+	@echo "... assignment1/ex2/WordsArray.o"
+	@echo "... assignment1/ex2/WordsArray.i"
+	@echo "... assignment1/ex2/WordsArray.s"
+	@echo "... assignment1/ex2/main.o"
+	@echo "... assignment1/ex2/main.i"
+	@echo "... assignment1/ex2/main.s"
 .PHONY : help
 
 

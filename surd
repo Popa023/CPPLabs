@@ -5,6 +5,3 @@ public String getVin(){
     vin.equals da eroare daca e null?
     vrei sa zici sa le fac pe astia in una
 }
-
-
-abc
