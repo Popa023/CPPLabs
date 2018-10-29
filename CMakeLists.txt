@@ -3,5 +3,6 @@ project(CPPLabs)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPPLabs assignment1/ex2/ReadWords.cpp assignment1/ex2/ReadWords.h assignment1/ex2/WordsArray.cpp assignment1/ex2/WordsArray.h assignment1/ex2/main.cpp)
+add_executable(CPPLabs assignment3/Employee.cpp assignment3/Employee.h assignment3/List.cpp assignment3/List.h assignment3/main.cpp)
 #assignment1/ex1/Time.h assignment1/ex1/Time.cpp assignment1/ex1/main.cpp
+#

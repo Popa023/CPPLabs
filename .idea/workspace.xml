@@ -11,21 +11,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9db353f1-bd99-4ce3-9a5e-131960bf0bd4" name="Default Changelist" comment="lab4">
-      <change afterPath="$PROJECT_DIR$/assignment1/ex1/Time.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex1/Time.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex1/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/ReadWords.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/WordsArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/WordsArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/hamlet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/outfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/searchwords" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/testwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/ex2/textfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/Stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/Stack.h" afterDir="false" />
+    <list default="true" id="9db353f1-bd99-4ce3-9a5e-131960bf0bd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment1/ex2/ReadWords.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2/Person.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2/Person.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2/Student.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2/Student.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/Employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/Employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/List.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/List.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/emps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/DependInfo.cmake" afterDir="false" />
@@ -33,12 +30,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CPPLabs.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CPPLabs.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surd" beforeDir="false" afterPath="$PROJECT_DIR$/surd" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,21 +49,22 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CPPLabs (disassembly)" value="4" />
-          <entry key="cpp" value="90" />
+          <entry key="CPPLabs (disassembly)" value="18" />
+          <entry key="cpp" value="98" />
           <entry key="dat" value="9" />
-          <entry key="h" value="47" />
+          <entry key="h" value="56" />
+          <entry key="iostream" value="1" />
           <entry key="java" value="4" />
           <entry key="outfile" value="2" />
           <entry key="searchwords" value="1" />
@@ -78,35 +72,35 @@
           <entry key="surd" value="1" />
           <entry key="tema" value="1" />
           <entry key="textfile" value="2" />
-          <entry key="txt" value="11" />
+          <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="5" />
-          <entry key="Disassembly" value="4" />
-          <entry key="ObjectiveC" value="138" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="CMakeLists.txt" value="6" />
+          <entry key="Disassembly" value="18" />
+          <entry key="ObjectiveC" value="156" />
+          <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="9374" />
+          <entry key="cpp" value="10374" />
           <entry key="dat" value="1" />
-          <entry key="h" value="1625" />
-          <entry key="mm" value="35" />
+          <entry key="h" value="2011" />
+          <entry key="mm" value="117" />
           <entry key="searchwords" value="26" />
           <entry key="surd" value="466" />
           <entry key="tema" value="105" />
           <entry key="textfile" value="38" />
-          <entry key="txt" value="223" />
+          <entry key="txt" value="236" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="167" />
-          <entry key="ObjectiveC" value="11034" />
-          <entry key="PLAIN_TEXT" value="692" />
+          <entry key="CMakeLists.txt" value="176" />
+          <entry key="ObjectiveC" value="12502" />
+          <entry key="PLAIN_TEXT" value="696" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
@@ -118,89 +112,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="73" lean-forward="true" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+            <state relative-caret-position="75">
+              <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/main.cpp">
+        <entry file="file://$PROJECT_DIR$/assignment3/Employee.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment3/List.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="e#43#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex1/Time.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/testwords.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/searchwords">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/WordsArray.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding>
-                <element signature="e#43#62#0" expanded="true" />
+                <element signature="e#43#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stack/Stack.cpp">
+        <entry file="file://$PROJECT_DIR$/assignment3/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/WordsArray.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
-                <element signature="e#124#143#0" expanded="true" />
+                <element signature="e#43#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment1/ex2/outfile">
+        <entry file="file://$PROJECT_DIR$/assignment3/emps.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="195">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment3/List.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <folding>
+                <element signature="e#90#109#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -249,9 +216,16 @@
         <option value="$PROJECT_DIR$/assignment1/ex2/main.cpp" />
         <option value="$PROJECT_DIR$/assignment1/ex1/main.cpp" />
         <option value="$PROJECT_DIR$/assignment1/ex2/testwords.txt" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/assignment1/ex2/WordsArray.h" />
         <option value="$PROJECT_DIR$/assignment1/ex2/WordsArray.cpp" />
+        <option value="$PROJECT_DIR$/assignment3/Employee.h" />
+        <option value="$PROJECT_DIR$/assignment3/Employee.cpp" />
+        <option value="$PROJECT_DIR$/assignment2/Student.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/assignment3/main.cpp" />
+        <option value="$PROJECT_DIR$/assignment3/List.h" />
+        <option value="$PROJECT_DIR$/assignment3/emps.txt" />
+        <option value="$PROJECT_DIR$/assignment3/List.cpp" />
       </list>
     </option>
   </component>
@@ -262,10 +236,30 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
+    <option name="x" value="67" />
     <option name="y" value="25" />
-    <option name="width" value="1399" />
-    <option name="height" value="1025" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>GeneralC/C++</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ClangTidyInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -282,6 +276,22 @@
               <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment1" type="462c0819:PsiDirectoryNode" />
+              <item name="ex2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CPPLabs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CPPLabs" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -296,16 +306,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lab1" />
-      <recent name="$PROJECT_DIR$/lab1c" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assignment3" />
       <recent name="$PROJECT_DIR$/assignment1" />
       <recent name="$PROJECT_DIR$/lab5" />
       <recent name="$PROJECT_DIR$/lab4" />
       <recent name="$PROJECT_DIR$/lab3" />
-      <recent name="$PROJECT_DIR$/lab2/lab2prof" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab1" />
+      <recent name="$PROJECT_DIR$/lab1c" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -359,7 +369,8 @@
       <workItem from="1539888344802" duration="1456000" />
       <workItem from="1540129247348" duration="662000" />
       <workItem from="1540668341280" duration="7670000" />
-      <workItem from="1540729517599" duration="15989000" />
+      <workItem from="1540729517599" duration="19793000" />
+      <workItem from="1540818002084" duration="7753000" />
     </task>
     <task id="LOCAL-00001" summary="lab files">
       <created>1538666555824</created>
@@ -473,28 +484,36 @@
       <option name="project" value="LOCAL" />
       <updated>1539214558590</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lab4">
+      <created>1540761190587</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540761190587</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83113000" />
+    <option name="totallyTimeSpent" value="94670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18372993" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18594356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32555556" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49925038" visible="true" weight="0.32777777" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49925038" weight="0.32777777" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3288889" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074965" side_tool="true" weight="0.32873562" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" weight="0.32777777" />
@@ -520,7 +539,61 @@
     <MESSAGE value="lab4" />
     <option name="LAST_COMMIT_MESSAGE" value="lab4" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <condition expression="pay == 13130" language="ObjectiveC" />
+          <url>file://$PROJECT_DIR$/assignment3/List.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>pay == 13130</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(job, &quot;Teacher&quot;)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;River Storm\r&quot;)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;River Storm\\r&quot;)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;River Storm&quot;)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;Rose Tyler&quot;)==0</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;Rose Tyler&quot;)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strcmp(name, &quot;&quot;)</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="evaluateExpression">
       <expression>
         <expression-string>this-&gt;words[0].first</expression-string>
@@ -540,89 +613,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab2/file.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/ofile.dat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tema">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/surd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1a/lab1a.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1b/lab1b.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hello.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1c/Hellomain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1d/args.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab1/lab1e/average.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2/lab2prof/ReadArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab2/lab2prof/Stats.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="778">
@@ -762,16 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/ex1/Time.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <element signature="e#22#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/include/c++/7/bits/stl_map.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="896">
@@ -790,26 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="301" selection-start-line="301" selection-end-line="301" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/ex2/ReadWords.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding>
-            <element signature="e#228#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/ex2/ReadWords.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-          <folding>
-            <element signature="e#64#83#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,16 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="e#43#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="73" lean-forward="true" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -862,8 +812,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/ex2/outfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/Stack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/Student.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/Student.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/ex1/Time.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/Person.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/Person.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/c++/7/bits/stringfwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
           <folding>
-            <element signature="e#43#62#0" expanded="true" />
+            <element signature="e#1365#1392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1296#1323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="334" column="13" selection-start-line="334" selection-start-column="13" selection-end-line="334" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/Employee.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/Employee.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/emps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/ex2/ReadWords.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#64#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/ex2/ReadWords.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#228#245#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -878,27 +936,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/ex2/outfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/ex2/WordsArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="66" />
           <folding>
             <element signature="e#43#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stack/Stack.cpp">
+    <entry file="file://$PROJECT_DIR$/assignment3/List.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#90#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/List.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#43#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

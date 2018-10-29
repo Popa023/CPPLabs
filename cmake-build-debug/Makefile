@@ -123,86 +123,86 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-assignment1/ex2/ReadWords.o: assignment1/ex2/ReadWords.cpp.o
+assignment3/Employee.o: assignment3/Employee.cpp.o
 
-.PHONY : assignment1/ex2/ReadWords.o
-
-# target to build an object file
-assignment1/ex2/ReadWords.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.o
-.PHONY : assignment1/ex2/ReadWords.cpp.o
-
-assignment1/ex2/ReadWords.i: assignment1/ex2/ReadWords.cpp.i
-
-.PHONY : assignment1/ex2/ReadWords.i
-
-# target to preprocess a source file
-assignment1/ex2/ReadWords.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.i
-.PHONY : assignment1/ex2/ReadWords.cpp.i
-
-assignment1/ex2/ReadWords.s: assignment1/ex2/ReadWords.cpp.s
-
-.PHONY : assignment1/ex2/ReadWords.s
-
-# target to generate assembly for a file
-assignment1/ex2/ReadWords.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/ReadWords.cpp.s
-.PHONY : assignment1/ex2/ReadWords.cpp.s
-
-assignment1/ex2/WordsArray.o: assignment1/ex2/WordsArray.cpp.o
-
-.PHONY : assignment1/ex2/WordsArray.o
+.PHONY : assignment3/Employee.o
 
 # target to build an object file
-assignment1/ex2/WordsArray.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.o
-.PHONY : assignment1/ex2/WordsArray.cpp.o
+assignment3/Employee.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o
+.PHONY : assignment3/Employee.cpp.o
 
-assignment1/ex2/WordsArray.i: assignment1/ex2/WordsArray.cpp.i
+assignment3/Employee.i: assignment3/Employee.cpp.i
 
-.PHONY : assignment1/ex2/WordsArray.i
+.PHONY : assignment3/Employee.i
 
 # target to preprocess a source file
-assignment1/ex2/WordsArray.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.i
-.PHONY : assignment1/ex2/WordsArray.cpp.i
+assignment3/Employee.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.i
+.PHONY : assignment3/Employee.cpp.i
 
-assignment1/ex2/WordsArray.s: assignment1/ex2/WordsArray.cpp.s
+assignment3/Employee.s: assignment3/Employee.cpp.s
 
-.PHONY : assignment1/ex2/WordsArray.s
+.PHONY : assignment3/Employee.s
 
 # target to generate assembly for a file
-assignment1/ex2/WordsArray.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/WordsArray.cpp.s
-.PHONY : assignment1/ex2/WordsArray.cpp.s
+assignment3/Employee.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.s
+.PHONY : assignment3/Employee.cpp.s
 
-assignment1/ex2/main.o: assignment1/ex2/main.cpp.o
+assignment3/List.o: assignment3/List.cpp.o
 
-.PHONY : assignment1/ex2/main.o
+.PHONY : assignment3/List.o
 
 # target to build an object file
-assignment1/ex2/main.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.o
-.PHONY : assignment1/ex2/main.cpp.o
+assignment3/List.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o
+.PHONY : assignment3/List.cpp.o
 
-assignment1/ex2/main.i: assignment1/ex2/main.cpp.i
+assignment3/List.i: assignment3/List.cpp.i
 
-.PHONY : assignment1/ex2/main.i
+.PHONY : assignment3/List.i
 
 # target to preprocess a source file
-assignment1/ex2/main.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.i
-.PHONY : assignment1/ex2/main.cpp.i
+assignment3/List.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.i
+.PHONY : assignment3/List.cpp.i
 
-assignment1/ex2/main.s: assignment1/ex2/main.cpp.s
+assignment3/List.s: assignment3/List.cpp.s
 
-.PHONY : assignment1/ex2/main.s
+.PHONY : assignment3/List.s
 
 # target to generate assembly for a file
-assignment1/ex2/main.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment1/ex2/main.cpp.s
-.PHONY : assignment1/ex2/main.cpp.s
+assignment3/List.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.s
+.PHONY : assignment3/List.cpp.s
+
+assignment3/main.o: assignment3/main.cpp.o
+
+.PHONY : assignment3/main.o
+
+# target to build an object file
+assignment3/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o
+.PHONY : assignment3/main.cpp.o
+
+assignment3/main.i: assignment3/main.cpp.i
+
+.PHONY : assignment3/main.i
+
+# target to preprocess a source file
+assignment3/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.i
+.PHONY : assignment3/main.cpp.i
+
+assignment3/main.s: assignment3/main.cpp.s
+
+.PHONY : assignment3/main.s
+
+# target to generate assembly for a file
+assignment3/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.s
+.PHONY : assignment3/main.cpp.s
 
 # Help Target
 help:
@@ -213,15 +213,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... assignment1/ex2/ReadWords.o"
-	@echo "... assignment1/ex2/ReadWords.i"
-	@echo "... assignment1/ex2/ReadWords.s"
-	@echo "... assignment1/ex2/WordsArray.o"
-	@echo "... assignment1/ex2/WordsArray.i"
-	@echo "... assignment1/ex2/WordsArray.s"
-	@echo "... assignment1/ex2/main.o"
-	@echo "... assignment1/ex2/main.i"
-	@echo "... assignment1/ex2/main.s"
+	@echo "... assignment3/Employee.o"
+	@echo "... assignment3/Employee.i"
+	@echo "... assignment3/Employee.s"
+	@echo "... assignment3/List.o"
+	@echo "... assignment3/List.i"
+	@echo "... assignment3/List.s"
+	@echo "... assignment3/main.o"
+	@echo "... assignment3/main.i"
+	@echo "... assignment3/main.s"
 .PHONY : help
 
 

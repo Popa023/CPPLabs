@@ -84,19 +84,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment3/Employee.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/ReadWords.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment3/Employee.h">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment3/List.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/WordsArray.h">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment3/List.h">
 			<Option target="CPPLabs"/>
 		</Unit>
-		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment1/ex2/main.cpp">
+		<Unit filename="/home/razvan/CLionProjects/CPPLabs/assignment3/main.cpp">
 			<Option target="CPPLabs"/>
 		</Unit>
 		<Unit filename="/home/razvan/CLionProjects/CPPLabs/CMakeLists.txt">
