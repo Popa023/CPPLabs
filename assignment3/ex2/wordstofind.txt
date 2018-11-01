@@ -1,0 +1,13 @@
+activex
+act
+stock
+java
+cot
+ethernet
+net
+caps
+lap
+database
+notinthegrid
+
+

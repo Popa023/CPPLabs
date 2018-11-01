@@ -123,86 +123,59 @@ CPPLabs/fast:
 	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/build
 .PHONY : CPPLabs/fast
 
-assignment3/Employee.o: assignment3/Employee.cpp.o
+assignment3/ex2/ChMatrix.o: assignment3/ex2/ChMatrix.cpp.o
 
-.PHONY : assignment3/Employee.o
-
-# target to build an object file
-assignment3/Employee.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o
-.PHONY : assignment3/Employee.cpp.o
-
-assignment3/Employee.i: assignment3/Employee.cpp.i
-
-.PHONY : assignment3/Employee.i
-
-# target to preprocess a source file
-assignment3/Employee.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.i
-.PHONY : assignment3/Employee.cpp.i
-
-assignment3/Employee.s: assignment3/Employee.cpp.s
-
-.PHONY : assignment3/Employee.s
-
-# target to generate assembly for a file
-assignment3/Employee.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.s
-.PHONY : assignment3/Employee.cpp.s
-
-assignment3/List.o: assignment3/List.cpp.o
-
-.PHONY : assignment3/List.o
+.PHONY : assignment3/ex2/ChMatrix.o
 
 # target to build an object file
-assignment3/List.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o
-.PHONY : assignment3/List.cpp.o
+assignment3/ex2/ChMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o
+.PHONY : assignment3/ex2/ChMatrix.cpp.o
 
-assignment3/List.i: assignment3/List.cpp.i
+assignment3/ex2/ChMatrix.i: assignment3/ex2/ChMatrix.cpp.i
 
-.PHONY : assignment3/List.i
+.PHONY : assignment3/ex2/ChMatrix.i
 
 # target to preprocess a source file
-assignment3/List.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.i
-.PHONY : assignment3/List.cpp.i
+assignment3/ex2/ChMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.i
+.PHONY : assignment3/ex2/ChMatrix.cpp.i
 
-assignment3/List.s: assignment3/List.cpp.s
+assignment3/ex2/ChMatrix.s: assignment3/ex2/ChMatrix.cpp.s
 
-.PHONY : assignment3/List.s
+.PHONY : assignment3/ex2/ChMatrix.s
 
 # target to generate assembly for a file
-assignment3/List.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/List.cpp.s
-.PHONY : assignment3/List.cpp.s
+assignment3/ex2/ChMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.s
+.PHONY : assignment3/ex2/ChMatrix.cpp.s
 
-assignment3/main.o: assignment3/main.cpp.o
+assignment3/ex2/main.o: assignment3/ex2/main.cpp.o
 
-.PHONY : assignment3/main.o
+.PHONY : assignment3/ex2/main.o
 
 # target to build an object file
-assignment3/main.cpp.o:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o
-.PHONY : assignment3/main.cpp.o
+assignment3/ex2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o
+.PHONY : assignment3/ex2/main.cpp.o
 
-assignment3/main.i: assignment3/main.cpp.i
+assignment3/ex2/main.i: assignment3/ex2/main.cpp.i
 
-.PHONY : assignment3/main.i
+.PHONY : assignment3/ex2/main.i
 
 # target to preprocess a source file
-assignment3/main.cpp.i:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.i
-.PHONY : assignment3/main.cpp.i
+assignment3/ex2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.i
+.PHONY : assignment3/ex2/main.cpp.i
 
-assignment3/main.s: assignment3/main.cpp.s
+assignment3/ex2/main.s: assignment3/ex2/main.cpp.s
 
-.PHONY : assignment3/main.s
+.PHONY : assignment3/ex2/main.s
 
 # target to generate assembly for a file
-assignment3/main.cpp.s:
-	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/main.cpp.s
-.PHONY : assignment3/main.cpp.s
+assignment3/ex2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/CPPLabs.dir/build.make CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.s
+.PHONY : assignment3/ex2/main.cpp.s
 
 # Help Target
 help:
@@ -213,15 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... CPPLabs"
-	@echo "... assignment3/Employee.o"
-	@echo "... assignment3/Employee.i"
-	@echo "... assignment3/Employee.s"
-	@echo "... assignment3/List.o"
-	@echo "... assignment3/List.i"
-	@echo "... assignment3/List.s"
-	@echo "... assignment3/main.o"
-	@echo "... assignment3/main.i"
-	@echo "... assignment3/main.s"
+	@echo "... assignment3/ex2/ChMatrix.o"
+	@echo "... assignment3/ex2/ChMatrix.i"
+	@echo "... assignment3/ex2/ChMatrix.s"
+	@echo "... assignment3/ex2/main.o"
+	@echo "... assignment3/ex2/main.i"
+	@echo "... assignment3/ex2/main.s"
 .PHONY : help
 
 

@@ -57,60 +57,45 @@ include CMakeFiles/CPPLabs.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CPPLabs.dir/flags.make
 
-CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o: ../assignment3/Employee.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment3/Employee.cpp
+CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o: ../assignment3/ex2/ChMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/ChMatrix.cpp
 
-CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment3/Employee.cpp > CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.i
+CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/ChMatrix.cpp > CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.i
 
-CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment3/Employee.cpp -o CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.s
+CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/ChMatrix.cpp -o CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.s
 
-CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o: ../assignment3/List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment3/List.cpp
+CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
+CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o: ../assignment3/ex2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/main.cpp
 
-CMakeFiles/CPPLabs.dir/assignment3/List.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment3/List.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment3/List.cpp > CMakeFiles/CPPLabs.dir/assignment3/List.cpp.i
+CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/main.cpp > CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.i
 
-CMakeFiles/CPPLabs.dir/assignment3/List.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment3/List.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment3/List.cpp -o CMakeFiles/CPPLabs.dir/assignment3/List.cpp.s
-
-CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o: CMakeFiles/CPPLabs.dir/flags.make
-CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o: ../assignment3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o -c /home/razvan/CLionProjects/CPPLabs/assignment3/main.cpp
-
-CMakeFiles/CPPLabs.dir/assignment3/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPPLabs.dir/assignment3/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/razvan/CLionProjects/CPPLabs/assignment3/main.cpp > CMakeFiles/CPPLabs.dir/assignment3/main.cpp.i
-
-CMakeFiles/CPPLabs.dir/assignment3/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment3/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment3/main.cpp -o CMakeFiles/CPPLabs.dir/assignment3/main.cpp.s
+CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/razvan/CLionProjects/CPPLabs/assignment3/ex2/main.cpp -o CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.s
 
 # Object files for target CPPLabs
 CPPLabs_OBJECTS = \
-"CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o" \
-"CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o" \
-"CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o"
+"CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o" \
+"CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o"
 
 # External object files for target CPPLabs
 CPPLabs_EXTERNAL_OBJECTS =
 
-CPPLabs: CMakeFiles/CPPLabs.dir/assignment3/Employee.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/assignment3/List.cpp.o
-CPPLabs: CMakeFiles/CPPLabs.dir/assignment3/main.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/assignment3/ex2/ChMatrix.cpp.o
+CPPLabs: CMakeFiles/CPPLabs.dir/assignment3/ex2/main.cpp.o
 CPPLabs: CMakeFiles/CPPLabs.dir/build.make
 CPPLabs: CMakeFiles/CPPLabs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CPPLabs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/razvan/CLionProjects/CPPLabs/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CPPLabs"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CPPLabs.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
